@@ -1,0 +1,4 @@
+GET http://localhost:3000/json_placeholder/posts/1
+Accept: application/json
+Authorization: nikolay
+###
